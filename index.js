@@ -52,8 +52,9 @@ Aşağıdakileri yaparak carpma isimli fonksiyonu tamamla:
    3. console.log(carpma(7,4)) ile yazdığın fonsiyonu test edin. Console'da sonucu 28 olarak görmelisin.
 */
 
-function carpma(/*buraya kodunu yazabilirsin*/) {
+function carpma(a,b) {
   /*buraya kodunu yazabilirsin*/
+  return a*b
 }
 
 /* Görev 2 : Köpeğin Yaşı */
@@ -65,8 +66,8 @@ Aşağıdakileri yap:
  3. Hesaplanan köpeğin yaşını dönün.
  */
 
-function kopeginYasi(/*buraya kodunu yazabilirsin*/) {
-  /*buraya kodunu yazabilirsin*/
+function kopeginYasi(yasadigiYil) {
+  yasadigiYil / 7
 }
 
 /* Görev 3 */
