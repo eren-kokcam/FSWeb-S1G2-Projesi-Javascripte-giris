@@ -56,7 +56,7 @@ function carpma(a,b) {
   /*buraya kodunu yazabilirsin*/
   return a*b
 }
-
+console.log(carpma(7,4))
 /* Görev 2 : Köpeğin Yaşı */
 
 /*
