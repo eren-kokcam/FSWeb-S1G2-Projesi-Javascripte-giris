@@ -67,7 +67,7 @@ Aşağıdakileri yap:
  */
 
 function kopeginYasi(yasadigiYil) {
-  yasadigiYil / 7
+  return yasadigiYil / 7
 }
 
 /* Görev 3 */
